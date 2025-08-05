@@ -8,7 +8,7 @@ This dashboard demonstrates skills in data analysis, web development, and public
 
 ##  Features
 
-### 📊 **Interactive Visualizations**
+###  **Interactive Visualizations**
 - **Trend Analysis Charts**: 3-year trend data (2021-2023) with gradient-filled area charts
 - **Health Disparities by Race**: Bar charts showing demographic breakdowns with gradient fills
 - **County Comparison**: Choropleth-style county comparisons with severity-based color coding
