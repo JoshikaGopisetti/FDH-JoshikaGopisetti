@@ -2,11 +2,11 @@
 
 A modern, interactive web dashboard showcasing Florida county health data with enhanced visualizations. Built as a work sample for an OPS Research and Statistics Consultant position with the Florida Department of Health.
 
-## 🎯 Project Overview
+##  Project Overview
 
 This dashboard demonstrates skills in data analysis, web development, and public health reporting through an interactive visualization of Florida county health metrics. The application features modern UI/UX design, responsive layouts, and comprehensive data visualization capabilities.
 
-## ✨ Features
+##  Features
 
 ### 📊 **Interactive Visualizations**
 - **Trend Analysis Charts**: 3-year trend data (2021-2023) with gradient-filled area charts
@@ -14,27 +14,27 @@ This dashboard demonstrates skills in data analysis, web development, and public
 - **County Comparison**: Choropleth-style county comparisons with severity-based color coding
 - **Detailed Data Table**: Sortable table with modern borders and color-coded metrics
 
-### 🎨 **Modern UI/UX**
+###  **Modern UI/UX**
 - **Glassmorphism Effects**: Frosted glass backgrounds with backdrop blur
 - **Gradient Styling**: Modern gradient backgrounds, text, and chart elements
 - **Responsive Design**: Optimized for desktop, tablet, and mobile devices
 - **Smooth Animations**: Fade-in, slide-up, and hover effects
 - **Professional Typography**: Inter font family with modern spacing
 
-### 🔧 **Interactive Features**
+###  **Interactive Features**
 - **County Selection**: Dropdown with search functionality
 - **Metric Selection**: Choose from maternal mortality, low birth weight, preterm birth, teen birth rate
 - **Data Sorting**: Click column headers to sort table data
 - **CSV Export**: Download filtered data for further analysis
 - **Real-time Filtering**: Search counties by name
 
-### 📈 **Data Metrics**
+###  **Data Metrics**
 - **Maternal Mortality Rate** (per 100,000 births)
 - **Low Birth Weight Percentage** (% of births under 2,500g)
 - **Preterm Birth Percentage** (% of births before 37 weeks)
 - **Teen Birth Rate** (per 1,000 females aged 15-19)
 
-## 🛠️ Technology Stack
+## 🛠 Technology Stack
 
 - **Frontend Framework**: React 18 with TypeScript
 - **Styling**: Tailwind CSS with custom animations
@@ -43,7 +43,7 @@ This dashboard demonstrates skills in data analysis, web development, and public
 - **Build Tool**: CRACO (Create React App Configuration Override)
 - **Fonts**: Inter (primary) and JetBrains Mono (code)
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 - Node.js (v16 or higher)
@@ -54,7 +54,7 @@ This dashboard demonstrates skills in data analysis, web development, and public
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd florida-health-dashboard
+   cd FDH-JoshikaGopisetti
    ```
 
 2. **Install dependencies**
@@ -79,7 +79,7 @@ npm run build
 ## 📁 Project Structure
 
 ```
-florida-health-dashboard/
+FDH-JoshikaGopisetti/
 ├── public/
 │   ├── index.html          # Main HTML template
 │   └── favicon.ico         # App icon
@@ -101,7 +101,7 @@ florida-health-dashboard/
 └── tsconfig.json                   # TypeScript configuration
 ```
 
-## 🎨 Design System
+## Design System
 
 ### Color Palette
 - **Florida Blue**: `#0066CC` - Primary brand color
@@ -121,7 +121,7 @@ florida-health-dashboard/
 - **Hover Effects**: 0.3s cubic-bezier transitions
 - **Loading Spinner**: Smooth rotation animation
 
-## 📊 Data Structure
+## Data Structure
 
 The application uses TypeScript interfaces for type safety:
 
@@ -141,7 +141,7 @@ interface HealthMetrics {
 }
 ```
 
-## 🔍 Key Features Explained
+## Key Features Explained
 
 ### County Selection & Search
 - Dropdown with all 10 Florida counties
@@ -159,7 +159,7 @@ interface HealthMetrics {
 - **Modern Borders**: Clean, professional table styling
 - **Responsive**: Horizontal scroll on smaller screens
 
-## 🎯 Professional Features
+## Professional Features
 
 ### Export Functionality
 - **CSV Download**: Export filtered data for analysis
@@ -175,7 +175,7 @@ interface HealthMetrics {
 - **Lazy Loading**: Components load efficiently
 - **Optimized Builds**: Production-ready with code splitting
 
-## 📝 Development Notes
+## Development Notes
 
 ### Mock Data
 The application uses realistic mock data for 10 Florida counties:
@@ -192,7 +192,7 @@ The application uses realistic mock data for 10 Florida counties:
 - **ESLint**: Code quality and consistency
 - **Modern React**: Hooks-based functional components
 
-## 🚀 Deployment
+## Deployment
 
 The application can be deployed to any static hosting service:
 
@@ -202,7 +202,7 @@ npm run build
 
 The `build/` folder contains the production-ready files.
 
-## 👨‍💻 Author
+## Author
 
 **Joshika Gopisetti**
 - Built for Florida Department of Health OPS Research and Statistics Consultant position
@@ -213,5 +213,3 @@ The `build/` folder contains the production-ready files.
 This project is created as a work sample and demonstration of technical skills.
 
 ---
-
-*Built with modern web technologies to showcase professional data visualization and web development capabilities.*
