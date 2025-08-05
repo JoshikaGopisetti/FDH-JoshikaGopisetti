@@ -34,7 +34,7 @@ This dashboard demonstrates skills in data analysis, web development, and public
 - **Preterm Birth Percentage** (% of births before 37 weeks)
 - **Teen Birth Rate** (per 1,000 females aged 15-19)
 
-## 🛠 Technology Stack
+##  Technology Stack
 
 - **Frontend Framework**: React 18 with TypeScript
 - **Styling**: Tailwind CSS with custom animations
